@@ -1,0 +1,11 @@
+{
+	"ImportPath": "github.com/xiezhenouc/godependencydemo",
+	"GoVersion": "go1.9",
+	"GodepVersion": "v80",
+	"Deps": [
+		{
+			"ImportPath": "github.com/xiezhenouc/golangwebframework",
+			"Rev": "4bb157000ee75b8dd28e150190ea224d90b41a6f"
+		}
+	]
+}
